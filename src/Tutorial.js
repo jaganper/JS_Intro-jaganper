@@ -1,4 +1,4 @@
-//Verified the tutorials
+
 exports.Variables = function(){
 
 	console.log("Javascript.Tutorials Variables");

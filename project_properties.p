@@ -34,7 +34,7 @@ Vhttp://mission-rnd.github.io/javascript-basics.htm
 p17
 sVproject_status
 p18
-I1
+I2
 sVproject_gitrepo
 p19
 Vhttps://github.com/mission-rnd/mrnd-javascript
